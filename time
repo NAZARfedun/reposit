@@ -1,1 +1,1 @@
-time=$(date -d "$1" +
+time=$(date -d "$1" +"%T")
